@@ -11,8 +11,6 @@ This project explores **machine learning** and **quantitative optimization** tec
 
 - `portfolio_optimization.ipynb` – Main Jupyter notebook with all model implementations.
 - `Report.docx` – Full research paper with detailed explanation and results.
-- `data/` – Folder for input stock data (not uploaded due to size).
-- `images/` – Folder for all graphs and visuals (add your plots here).
 
 ---
 
